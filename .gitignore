@@ -1,0 +1,7 @@
+# the start executable
+start 
+
+# binary files
+*.bin
+*.o
+*.out
